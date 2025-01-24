@@ -1,0 +1,360 @@
+[
+    {
+        "board_family": "U5",
+        "board_name": "STM32U5G9J-DK",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM3",
+        "revision": "Rev A",
+        "serial_number": "003500314D4B500720373831"
+    },
+    {
+        "board_family": "U575",
+        "board_name": "STM32U575I-EV",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM2",
+        "revision": "Rev X",
+        "serial_number": "0021003B3331510B33323639"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "B-U585I-IOT02A",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4002.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM6",
+        "revision": "Rev X",
+        "serial_number": "003A00253232510239353236"
+    },
+    {
+        "board_family": "C0",
+        "board_name": "NUCLEO-C031C6",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM0",
+        "revision": "Rev Z",
+        "serial_number": "066BFF495288774867093647"
+    },
+    {
+        "board_family": "C0116",
+        "board_name": "STM32C0116-DK",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM1",
+        "revision": "Rev Z",
+        "serial_number": "0669FF313050353043152929"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "STM32U5G9J-DK2",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "003600203433511637363934",
+                "type": "Autoshield",
+                "fixtures": [
+                    "default",
+                    "button",
+                    "led3",
+                    "adc4_8"
+                ],
+                "serial_number": "003600203433511637363934"
+            }
+        ],
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM8",
+        "revision": "Rev Z",
+        "serial_number": "001A002C3433510237363934"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U545RE-Q",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "NUCLEO-H753ZI",
+                "type": "Autoshield",
+                "fixtures": [
+                    "button",
+                    "mco",
+                    "timer1",
+                    "adc1_5",
+                    "uart3",
+                    "comp1_8"
+                ],
+                "serial_number": "003200423532511131333430"
+            }
+        ],
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM4",
+        "revision": "Rev Z",
+        "serial_number": "004000413132511238363431"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U545RE-Q",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4002.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM9",
+        "revision": "Rev A",
+        "serial_number": "002500433132511438363431"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U575ZI-Q",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4002.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM1",
+        "revision": "Rev X",
+        "serial_number": "002400223532510331333430"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "B-U585I-IOT02A",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "NUCLEO-H743ZI",
+                "type": "Autoshield",
+                "fixtures": [
+                    "default",
+                    "button",
+                    "adc1_1",
+                    "mco",
+                    "dac1_1",
+                    "dac1_2",
+                    "spi3",
+                    "opamp1_vout",
+                    "opamp1_vinp",
+                    "adc1_5",
+                    "comp1_8"
+                ],
+                "serial_number": "001B00323232510239353236"
+            }
+        ],
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM6",
+        "revision": "Rev X",
+        "serial_number": "003600284741500320383733"
+    },
+    {
+        "board_family": "C0",
+        "board_name": "NUCLEO-C031C6",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "NUCLEO-H753ZI",
+                "type": "Autoshield",
+                "fixtures": [
+                    "default",
+                    "button",
+                    "tim1",
+                    "adc1_0"
+                ],
+                "serial_number": "003500403532511131333430"
+            }
+        ],
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM5",
+        "revision": "Rev Z",
+        "serial_number": "066DFF525681774867231642"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U575ZI-Q",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "NUCLEO-H743ZI",
+                "type": "Autoshield",
+                "fixtures": [
+                    "default",
+                    "button",
+                    "dac1_1",
+                    "led1",
+                    "adc1_8",
+                    "opamp1_vinp",
+                    "mco",
+                    "comp1_8",
+                    "adc1_5"
+                ],
+                "serial_number": "0016001B4D4B500D20373831"
+            }
+        ],
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM0",
+        "revision": "Rev X",
+        "serial_number": "000600184D46501020383832"
+    },
+    {
+        "board_family": "H7",
+        "board_name": "NUCLEO-H743ZI",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "Autoshield",
+        "port": "/dev/ttyACM2",
+        "revision": "Rev V",
+        "serial_number": "0016001B4D4B500D20373831"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U575ZI-Q",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "H7",
+                "type": "Autoshield",
+                "fixtures": [
+                    "default"
+                ],
+                "serial_number": "002A00373532511231333430"
+            }
+        ],
+        "hostname": "tuncxd4001.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM1",
+        "revision": "Rev X",
+        "serial_number": "003B00174D4B500820373831"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "STM32U5G9J-DK1",
+        "cut": "",
+        "external_equipement": [
+            {
+                "name": "004B003F3433511737363934",
+                "type": "Autoshield",
+                "fixtures": [
+                    "default",
+                    "button",
+                    "led1"
+                ],
+                "serial_number": "004B003F3433511737363934"
+            }
+        ],
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM11",
+        "revision": "Rev Z",
+        "serial_number": "004800333033510435393935"
+    },
+    {
+        "board_family": "C0",
+        "board_name": "NUCLEO-C031C6",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM6",
+        "revision": "Rev Z",
+        "serial_number": "066CFF525681774867231653"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U575ZI-Q",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4001.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM0",
+        "revision": "Rev X",
+        "serial_number": "002A00213156501920323443"
+    },
+    {
+        "board_family": "H7",
+        "board_name": "NUCLEO-H743ZI",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "Autoshield",
+        "port": "/dev/ttyACM7",
+        "revision": "Rev V",
+        "serial_number": "001B00323232510239353236"
+    },
+    {
+        "board_family": "H7",
+        "board_name": "NUCLEO-H753ZI",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "Autoshield",
+        "port": "/dev/ttyACM1",
+        "revision": "Rev V",
+        "serial_number": "003200423532511131333430"
+    },
+    {
+        "board_family": "H7",
+        "board_name": "NUCLEO-H753ZI",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "lmecxd0327.lme.st.com",
+        "labels": "Autoshield",
+        "port": "/dev/ttyACM3",
+        "revision": "Rev V",
+        "serial_number": "003500403532511131333430"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U575ZI-Q",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4002.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM2",
+        "revision": "Rev X",
+        "serial_number": "004100463532510331333430"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "STM32U5A9J-DK",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM5",
+        "revision": "Rev X",
+        "serial_number": "0030004F3132511838363431"
+    },
+    {
+        "board_family": "U5",
+        "board_name": "NUCLEO-U575ZI-Q",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM4",
+        "revision": "Rev X",
+        "serial_number": "003000243331510A33323639"
+    },
+    {
+        "board_family": "H7",
+        "board_name": "NUCLEO-H743ZI",
+        "cut": "",
+        "external_equipement": "",
+        "hostname": "tuncxd4003.tue.st.com",
+        "labels": "",
+        "port": "/dev/ttyACM7",
+        "revision": "Rev V",
+        "serial_number": "004700263532511431333430"
+    }
+]

@@ -9,24 +9,43 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #03234b !important;
+  color: #03234b ;
 }
 
 * {
-  color: #03234b !important;
+  color: #03234b;
   font-family: 'LubalinGraphStd-Medium' !important;
 }
 
 body,
 html {
-  padding-top: 24px;
   font-family: 'LubalinGraphStd-Medium' !important;
+  margin: 0;
+  background-color: #e3e3e3 ;
+
 }
 
 .p-column-filter-menu-button {
-  /* background-color: #ffd200 !important; */
   color: #ffd200 !important;
   transition: all .3s ease;
+}
+
+.status-text.connected {
+  color: green !important;
+}
+
+.status-text.disconnected {
+  color: red !important;
+}
+.status-text.unlocked {
+  color: green;
+}
+
+.status-text.locked {
+  color: red;
+}
+.status-text {
+  font-weight: bold;
 }
 
 .p-column-filter-menu-button:hover {

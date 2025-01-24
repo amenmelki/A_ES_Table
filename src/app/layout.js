@@ -1,6 +1,6 @@
 import "./globals.css";
 import { PrimeReactProvider } from 'primereact/api';
-import "primereact/resources/themes/lara-light-cyan/theme.css";
+import "primereact/resources/themes/lara-light-green/theme.css";
 
 
 export const metadata = {
@@ -12,7 +12,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        
         <PrimeReactProvider>
           {children}
         </PrimeReactProvider>
